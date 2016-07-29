@@ -5,7 +5,7 @@ The submission guidelines for this year are as follows:
 
 - A submission should be an extended abstract describing a preliminary result, idea, application, or a demo of a new product or technology.
 - Submissions should have one page (preferred) or two pages (maximum) of content, with no limit on the size of the bibliography (i.e. all pages past the second must only contain references).
-- All LBD papers are required to be presented by one of the authors as a poster (and optionally a live demo) on the final day (August 11th) of ISMIR 2016.
+- All LBD papers are required to be presented by one of the authors as a poster (and optionally a live demo) on the final day (August 11th) of ISMIR 2016.  Posters must use portrait orientation and be no larger than A0 or 36 x 48 inch.  LBD presenters can take advantage of the [on-site poster printing service](https://wp.nyu.edu/ismir2016/participants-2/poster-printing-service/), but note that orders must be placed before 7/24 at 6:30PM EST!
 - This year, the LBD session will be open to the public, so we particularly encourage submission of projects of interest to a broad/nonscientific audience.
 - Submission will be open until August 10th, 2016.  Please note that if you are submitting something which is _very late_-breaking, you will still be expected to present it as a poster during the LBD session.
 - Submissions should not be anonymized.
