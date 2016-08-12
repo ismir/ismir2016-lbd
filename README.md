@@ -1,58 +1,44 @@
-# ISMIR 2016 Late-Breaking/Demo Submission
+# ISMIR 2016 Late-Breaking/Demo Papers
 
-Thanks for your interest in submitting a late breaking/demo (LBD) paper for ISMIR 2016.
-The submission guidelines for this year are as follows:
+This repository holds all of the Late-Breaking/Demo Papers presented at the 2016 International Society for Music Information Retrieval Conference.
 
-- A submission should be an extended abstract describing a preliminary result, idea, application, or a demo of a new product or technology.
-- Submissions should have one page (preferred) or two pages (maximum) of content, with no limit on the size of the bibliography (i.e. all pages past the second must only contain references).
-- All LBD papers are required to be presented by one of the authors as a poster (and optionally a live demo) on the final day (August 11th) of ISMIR 2016.  Posters must use portrait orientation and be no larger than A0 or 36 x 48 inch.  LBD presenters can take advantage of the [on-site poster printing service](https://wp.nyu.edu/ismir2016/participants-2/poster-printing-service/), but note that orders must be placed before 7/24 at 6:30PM EST!
-- This year, the LBD session will be open to the public, so we particularly encourage submission of projects of interest to a broad/nonscientific audience.
-- Submission will be open until August 10th, 2016.  Please note that if you are submitting something which is _very late_-breaking, you will still be expected to present it as a poster during the LBD session.
-- Submissions should not be anonymized.
-- All submissions will undergo a light peer review.  Note that all submissions and review will all be completely viewable by the public.
-- Templates are available for [LaTeX](https://raw.githubusercontent.com/ismir-net/ismir2016-lbd/master/templates/ISMIR2016-LBD_tex_template.zip) and [Word](https://raw.githubusercontent.com/ismir-net/ismir2016-lbd/master/templates/ISMIR2016-LBD_word_template.zip).
-
-This year, we are handling submissions through GitHub!
-If you don't have experience with git/GitHub, don't worry, you can do everything from your browser; see below for a tutorial.
-If you are comfortable with using git, please follow these steps to create a submission:
-
-1. Fork this repository.
-2. In your fork, add a PDF of your paper to the submissions folder.  The PDF should be named `(first author's last name)-(first word of title).pdf`; for example, if the first author is Joe Shmoe, and the paper's title is "Music is Cool", the PDF should be called `shmoe-music.pdf`.
-3. [Create a pull request](https://github.com/ismir-net/ismir2016-lbd/pull/new/master) to merge your fork.  Make the title of the pull request the title of the paper.
-4. Review will take place within the pull request; after any necessary revisions the paper will be accepted when the pull request is merged.
-
-## Submission Tutorial
-
-Fortunately, GitHub is easy to use even if you have no experience with git or the command line.
-The following steps will create a new submission; if you have any issues, please don't hesitate to email [craffel@gmail.com](craffel@gmail.com).
-
-1. Download the [LaTeX](https://raw.githubusercontent.com/ismir-net/ismir2016-lbd/master/templates/ISMIR2016-LBD_tex_template.zip) or [Word](https://raw.githubusercontent.com/ismir-net/ismir2016-lbd/master/templates/ISMIR2016-LBD_word_template.zip) template and write your LBD extended abstract.
-1. If you're using Word, save the Word document as a PDF.  If you're using LaTeX, you should have a PDF already.
-1. Rename your PDF `(first author's last name)-(first word of title).pdf`; for example, if the first author is Joe Shmoe, and the paper's title is "Music is Cool", the PDF should be called `shmoe-music.pdf`.
-1. If you aren't signed up for GitHub, sign up [here](http://github.com/join).  You don't need a paid account.
-1. Create a fork of this repository by clicking on the "Fork" button at the top of this page, which looks like this:
-
-   ![fork](https://raw.githubusercontent.com/ismir-net/ismir2016-lbd/master/images/fork.png "Fork")
-1. In your new repository, navigate to the `submissions` directory (after navigating, the URL should be something like https://github.com/your-github-username/ismir2016-lbd/tree/master/submissions):
-
-   ![submissions](https://raw.githubusercontent.com/ismir-net/ismir2016-lbd/master/images/submissions.png "submissions")
-1. Click the "Upload files" button:
-
-   ![upload](https://raw.githubusercontent.com/ismir-net/ismir2016-lbd/master/images/upload.png "Upload")
-1. Upload your correctly-named PDF, and hit "Commit changes" at the bottom of the page:
-
-   ![commit-changes](https://raw.githubusercontent.com/ismir-net/ismir2016-lbd/master/images/commit-changes.png "Commit changes")
-1. Click the "New Pull Request" button:
-
-   ![new-pull-request](https://raw.githubusercontent.com/ismir-net/ismir2016-lbd/master/images/new-pull-request.png "New pull request")
-1. You should see a page which looks like this; click the "Create Pull Request" button:
-
-   ![create-pull-request](https://raw.githubusercontent.com/ismir-net/ismir2016-lbd/master/images/create-pull-request.png "Create pull request")
-1. Make the pull request title the title of your paper, and click the "Create Pull Request" button:
-
-   ![title-create-pull-request](https://raw.githubusercontent.com/ismir-net/ismir2016-lbd/master/images/title-create-pull-request.png "Title/create pull request")
-1. This will take you the pull request page for your paper, with a URL like https://github.com/ismir-net/ismir2016-lbd/pull/2.  Save this URL for future reference.  At this point, you have submitted your extended abstract; don't close the pull request.
-1. The paper will be reviewed within the pull request.  You may be instructed to update your PDF with a few changes.  To do so, simply follow steps 6-8 again with your updated PDF (i.e. navigate to the `submissions` directory in your fork and upload your new updated PDF).  The pull request will be updated automatically.
-1. Your pull request will be merged (i.e. your PDF will be included in the main repository) once the review is over.  That's it!
-
-If you have any questions or problems, feel free to email craffel@gmail.com.
+1. [MUSICWEB: SIMILARITY MODELLING STRATEGIES FOR ARTIST DISCOVERY](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/allik-musicweb.pdf), _Alo Allik, Mariano Mora-Mcginity, György Fazekas, Mark Sandler_
+2. [AUDIO DEEPDREAM: OPTIMIZING RAW AUDIO WITH CONVOLUTIONAL NETWORKS](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/ardila-audio.pdf), _Diego Ardila, Cinjon Resnick Adam Roberts, Douglas Eck_
+3. [MODELING SPECTRAL CHANGES IN SINGING VOICE FOR PITCH MODIFICATION](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/barbancho-modeling.pdf), _Isabel Barbancho, José L. Santacruz, Lorenzo J. Tardón, Ana M. Barbancho_
+4. [REAL-TIME AUDIO INTERACTION IN SERIOUS GAMES FOR MUSIC LEARNING](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/barbancho-real.pdf), _Isabel Barbancho, Lorenzo J. Tardón, Ana M. Barbancho_
+5. [GRAIL: A MUSIC METADATA IDENTITY API](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/barone-grail.pdf), _Michael D. Barone, Kurt Dacosta, Gabriel Vigliensoni_
+6. [MEDLEYDB 2.0 : NEW DATA AND A SYSTEM FOR SUSTAINABLE DATA COLLECTION](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/bittner-medleydb.pdf), _Rachel M. Bittner, Julia Wilkins, Hanna Yip, Juan P. Bello_
+7. [PYSOX: LEVERAGING THE AUDIO SIGNAL PROCESSING POWER OF SOX IN PYTHON](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/bittner-pysox.pdf), _Rachel M. Bittner, Eric Humphrey, Juan P. Bello_
+8. [MADMOM: A NEW PYTHON AUDIO AND MUSIC SIGNAL PROCESSING LIBRARY](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/böck-madmom.pdf), _Sebastian Bóck, Filip Korzeniowski, Jan Schlúter, Florian Krebs, Gerhard Widmer_
+9. [STAFF-LINE DETECTION ON GREYSCALE IMAGES WITH PIXEL CLASSIFICATION](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/calvozaragoza-staff.pdf), _Jorge Calvo-Zaragoza, Gabriel Vigliensoni, Ichiro Fujinaga_
+10. [THE BASIS MIXER: A COMPUTATIONAL ROMANTIC PIANIST](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/cancino-basis.pdf), _Carlos Eduardo Cancino Chacón, Maarten Grachten_
+11. [A HYBRID HMM-RNN MODEL FOR OPTICAL MUSIC RECOGNITION](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/chen-hybrid.pdf), _Liang Chen, Rong Jin, Simo Zhang, Stefan Lee, Zhenhua Chen, David Crandall_
+12. [TOWARDS MUSIC CAPTIONING: GENERATING MUSIC PLAYLIST DESCRIPTIONS](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/choi-towards.pdf), _Keunwoo Choi, György Fazekas, Mark Sandler, Brian McFee, Kyunghyun Cho_
+13. [MIR WEB INTERFACE FOR SHAPING MUSICAL CREATIVITY](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/collins-mir.pdf), _Tom Collins, Peter Knees, Christian Coulon_
+14. [A CHORD-SCALE APPROACH TO AUTOMATIC JAZZ IMPROVISATION](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/deng-chord.pdf), _Junqi Deng, Yu-Kwong Kwok_
+15. [NUMBERS INTO NOTES: CAST YOUR MIND BACK 200 YEARS](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/deroure-numbers.pdf), _David De Roure, Pip Willcox, David M. Weigl1_
+16. [SCORE-INFORMED ESTIMATION OF PERFORMANCE PARAMETERS FROM POLYPHONIC AUDIO USING AMPACT](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/devaney-score.pdf), _Johanna Devaney, Michael I. Mandel_
+17. [LIVE SCORE FOLLOWING ON SHEET MUSIC IMAGES](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/dorfer-live.pdf), _Matthias Dorfer, Andreas Arzt, Sebastian Böck, Amaury Durand, Gerhard Widmer_
+18. [A REAL-TIME SYSTEM FOR HANDS-FREE GUITAR LOOP RECORDING AND DETECTION OF CHORDS AND RHYTHM STYLES](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/eppler-realtime.pdf), _Arndt Eppler, Andreas Männchen, Jakob Abeßer, Sascha Grollmisch, Christof Weiß_
+19. [MUSE: A VOICE-ACTIVATED MUSIC SEARCH AGENT FOR THE DIAL](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/fan-muse.pdf), _Yuan-Yi Fan, Vids Samanta_
+20. [A FEATURE-BASED APPROACH TO MODELING EXPERT MUSICAL INSIGHTS: THE MAX MARTIN COEFFICIENT](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/gang-feature.pdf), _Nick Gang, Blair Kaneshiro_
+21. [UNDERSTANDING MUSIC SIMILARITY IN FLAMENCO MUSIC](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/gomez-understanding.pdf), _Emilia Gómez, Daniel Wolff_
+22. [TOWARDS AUTOMATIC MUSIC RECOMMENDATION FOR AUDIO BRANDING SCENARIOS](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/herzog-towards.pdf), _Martin Herzog, Steffen Lepa, Hauke Egermann_
+23. [JS-XTRACT: A REALTIME AUDIO FEATURE EXTRACTION LIBRARY FOR THE WEB](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/jillings-jsxtract.pdf), _Nicholas Jillings, Jamie Bullock, Ryan Stables_
+24. [AUTOMATIC B***** DETECTION](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/kruspe-automatic.pdf), _Anna Krusp, Matthias Mauch_
+25. [IT MUST BE LOUIS ’CAUSE MILES DON’T SHAKE LIKE THAT: TOWARDS IDENTIFYING JAZZ TRUMPETERS BY VIBRATO](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/lazar-it.pdf), _Janet G. Lazar, Michael Lesk_
+26. [ASSOCIATING PLAYERS TO SOUND SOURCES IN MUSICAL PERFORMANCE VIDEOS](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/li-associating.pdf) _Bochen Li, Zhiyao Duan, Gaurav Sharma_
+27. [AUTOMATIC MUSIC ACCOMPANIMENT BASED ON AUDIO-VISUAL SCORE FOLLOWING](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/maezawa-automatic.pdf), _Akira Maezawa, Kazuhiko Yamamoto_
+28. [THE EXTENDED BALLROOM DATASET](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/marchand-extended.pdf), _Ugo Marchand, Geoffroy Peeters_
+29. [JSYMBOLIC2: EXTRACTING FEATURES FROM SYMBOLIC MUSIC REPRESENTATIONS](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/mckay-jsymbolic2.pdf), _Cory McKay, Tristano Tenaglia, Ichiro Fujinaga_
+30. [PLAYLISTS FROM THE MATRIX — COMBINING AUDIO AND METADATA IN SEMANTIC EMBEDDINGS](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/pugatschewski-playlists.pdf), _Kyrill Pugatschewski, Thomas Köllmer, Anna M. Kruspe_
+31. [DACTYLIZE: AUTOMATICALLY COLLECTING PIANO FINGERING DATA FROM PERFORMANCE](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/randolph-dactylize.pdf), _David A. Randolph, Barbara Di Eugenio_
+32. [EASY AS ABCDE: PIANO FINGERING TRANSCRIPTION ONLINE](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/randolph-easy.pdf), _David A. Randolph and Barbara Di Eugenio_
+33. [UNTWIST: A NEW TOOLBOX FOR AUDIO SOURCE SEPARATION](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/roma-untwist.pdf), _Gerard Roma, Emad M. Grais, Andrew J.R. Simpson, Iwona Sobieraj, Mark D. Plumbley_
+34. [ENTROPY AND THE ESTIMATION OF MUSICAL ABILITY](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/russell-entropy.pdf), _Andrew Russell, Roger Dannenberg_
+35. [DATA SCIENCE FOR THE DETECTION OF EMERGING MUSIC STYLES](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/silk-data.pdf), _Holly Silk, Raul Santos-Rodriguez, Cedric Mesnage, Tijl De Bie, Matt McVicar_
+36. [MEGSRADIO.FM: LOCALLY-FOCUSED PERSONALIZED INTERNET RADIO](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/turnbull-megsradio.pdf), _Douglas Turnbull, Shane Moore, Chris Perez, Luke Waldner, Mariah Flaim, David Dorsey, Dan Kustin, Thorsten Joachims_
+37. [DYNAMIC SEMANTIC NOTATION: JAMMING TOGETHER MUSIC ENCODING AND LINKED DATA](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/weigl-dynamic.pdf), _David M. Weigl, Kevin R. Page_
+38. [MIR USER STUDIES THROUGH THE LENS OF RELEVANCE: PROMOTING THE IMPACT OF MIR USER RESEARCH](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/weigl-mir.pdf), _David M. Weigl, Joan C. Bartlett, Daniel Steele, Catherine Guastavino_
+39. [GENERALIZING TRANSDUCTION GRAMMARS TO MODEL CONTINUOUS VALUED MUSICAL EVENTS](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/wu-generalizing.pdf), _Dekai Wu_
+40. [LEARNING TO CODE THROUGH MIR](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/xambo-learning.pdf), _Anna Xambó, Alexander Lerch, Jason Freeman_
