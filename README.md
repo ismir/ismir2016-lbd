@@ -16,7 +16,7 @@ This repository holds all of the Late-Breaking/Demo Papers presented at the 2016
 12. [TOWARDS MUSIC CAPTIONING: GENERATING MUSIC PLAYLIST DESCRIPTIONS](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/choi-towards.pdf), _Keunwoo Choi, György Fazekas, Mark Sandler, Brian McFee, Kyunghyun Cho_
 13. [MIR WEB INTERFACE FOR SHAPING MUSICAL CREATIVITY](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/collins-mir.pdf), _Tom Collins, Peter Knees, Christian Coulon_
 14. [A CHORD-SCALE APPROACH TO AUTOMATIC JAZZ IMPROVISATION](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/deng-chord.pdf), _Junqi Deng, Yu-Kwong Kwok_
-15. [NUMBERS INTO NOTES: CAST YOUR MIND BACK 200 YEARS](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/deroure-numbers.pdf), _David De Roure, Pip Willcox, David M. Weigl1_
+15. [NUMBERS INTO NOTES: CAST YOUR MIND BACK 200 YEARS](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/deroure-numbers.pdf), _David De Roure, Pip Willcox, David M. Weigl_
 16. [SCORE-INFORMED ESTIMATION OF PERFORMANCE PARAMETERS FROM POLYPHONIC AUDIO USING AMPACT](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/devaney-score.pdf), _Johanna Devaney, Michael I. Mandel_
 17. [LIVE SCORE FOLLOWING ON SHEET MUSIC IMAGES](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/dorfer-live.pdf), _Matthias Dorfer, Andreas Arzt, Sebastian Böck, Amaury Durand, Gerhard Widmer_
 18. [A REAL-TIME SYSTEM FOR HANDS-FREE GUITAR LOOP RECORDING AND DETECTION OF CHORDS AND RHYTHM STYLES](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/eppler-realtime.pdf), _Arndt Eppler, Andreas Männchen, Jakob Abeßer, Sascha Grollmisch, Christof Weiß_
