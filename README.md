@@ -23,6 +23,7 @@ This repository holds all of the Late-Breaking/Demo Papers presented at the 2016
 19. [MUSE: A VOICE-ACTIVATED MUSIC SEARCH AGENT FOR THE DIAL](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/fan-muse.pdf), _Yuan-Yi Fan, Vids Samanta_
 20. [A FEATURE-BASED APPROACH TO MODELING EXPERT MUSICAL INSIGHTS: THE MAX MARTIN COEFFICIENT](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/gang-feature.pdf), _Nick Gang, Blair Kaneshiro_
 21. [UNDERSTANDING MUSIC SIMILARITY IN FLAMENCO MUSIC](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/gomez-understanding.pdf), _Emilia Gómez, Daniel Wolff_
+22. [SEMITONE SHIFT DETECTION IN MUSIC AUDIO](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/gupta-semitone.pdf), _Kartik Gupta, Daniel Wolff, Stephen Cottrell, Tillman Weyde_
 22. [TOWARDS AUTOMATIC MUSIC RECOMMENDATION FOR AUDIO BRANDING SCENARIOS](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/herzog-towards.pdf), _Martin Herzog, Steffen Lepa, Hauke Egermann_
 23. [JS-XTRACT: A REALTIME AUDIO FEATURE EXTRACTION LIBRARY FOR THE WEB](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/jillings-jsxtract.pdf), _Nicholas Jillings, Jamie Bullock, Ryan Stables_
 24. [AUTOMATIC B***** DETECTION](https://github.com/ismir-net/ismir2016-lbd/raw/master/submissions/kruspe-automatic.pdf), _Anna Krusp, Matthias Mauch_
